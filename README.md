@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=UnTQVlqmDQ0
 | JSON data format |    | ![alt text](http://progressed.io/bar/0 "Progress") | 
 | Fetch API |   | ![alt text](http://progressed.io/bar/0 "Progress") | 
 | ES6+ |   | ![alt text](http://progressed.io/bar/0 "Progress") | 
-| Front-End Framework |   | ![alt text](http://progressed.io/bar/0 "Progress") | 
+| Front-End Framework |  https://www.youtube.com/watch?v=SWZ_4YBFBhs | ![alt text](http://progressed.io/bar/0 "Progress") | 
 | State Management |   | ![alt text](http://progressed.io/bar/0 "Progress") | 
 
 
