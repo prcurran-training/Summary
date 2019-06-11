@@ -1,3 +1,15 @@
+# Project Ideas #
+
+1) Tetris 
+
+Recreate Tetris Game. 
+Recreate Tetris AI 
+
+Present in styled webapp
+
+https://www.youtube.com/watch?v=HEsAr2Yt2do
+http://imake.ninja/el-tetris-an-improvement-on-pierre-dellacheries-algorithm/
+
 
 # Data Science and Analytics #
 
